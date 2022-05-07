@@ -1,0 +1,5 @@
+npm install -D tailwindcss postcss autoprefixer
+
+npx  tailwindcss init
+
+npm install vite         //to start server
