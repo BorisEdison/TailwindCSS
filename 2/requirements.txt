@@ -1,3 +1,10 @@
+npm install -D tailwindcss postcss autoprefixer
+
+npx  tailwindcss init
+
+npm install vite         //to start server
+
+//
 npm init -y
 
 npm install -D tailwindcss postcss autoprefixer vite
@@ -5,3 +12,7 @@ npm install -D tailwindcss postcss autoprefixer vite
 npx tailwindcss init -p
 
 npm run start
+
+npm i
+
+npx tailwind init confBoris --full
